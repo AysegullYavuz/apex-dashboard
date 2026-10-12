@@ -4,11 +4,11 @@ Apex OS is a responsive, desktop-optimized fintech dashboard built with React 18
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 <div align="center">
 
-### Financial Command Center (1560px Overview)
+### Financial Command Center (Overview)
 ![Apex OS Overview](./public/preview-main.png)
 
 <br/>
