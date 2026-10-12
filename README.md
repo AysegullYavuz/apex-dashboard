@@ -4,6 +4,23 @@ Apex OS is a responsive, desktop-optimized fintech dashboard built with React 18
 
 ---
 
+## 📸 Interface Preview
+
+<div align="center">
+
+### Financial Command Center (1560px Overview)
+![Apex OS Overview](./public/preview-main.png)
+
+<br/>
+
+| Performance & Allocation | Real-Time Ledger & Market Radar |
+| :---: | :---: |
+| ![Portfolio Performance](./public/preview-charts.png) | ![Ledger and Radar](./public/preview-ledger.png) |
+
+</div>
+
+---
+
 ## Overview
 
 Modern trading terminals and financial operations suites demand both immediate readability and robust state handling. Apex OS organizes complex account telemetry into structured, glanceable modules: live FX and commodity sparklines, asset allocation breakdowns, real-time cryptocurrency feeds via Binance REST endpoints, and a paginated transaction ledger.
